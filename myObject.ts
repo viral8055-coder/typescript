@@ -50,10 +50,10 @@ type cardDate = {
     cardDate: string
 }
 
-type cardD
-etails = cardNumber & cardDate & {
-    cvv: number
-}
+// type cardD
+// etails = cardNumber & cardDate & {
+//     cvv: number
+// }
 
 myUser.email = "v@gmail.com"
 // myUser._id = "asa"

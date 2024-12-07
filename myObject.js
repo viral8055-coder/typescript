@@ -10,8 +10,9 @@ var myUser = {
     name: "V",
     email: "v@v.com",
     isActive: false
-}
-
-
-
+};
+// type cardD
+// etails = cardNumber & cardDate & {
+//     cvv: number
+// }
 myUser.email = "v@gmail.com";

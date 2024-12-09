@@ -29,4 +29,4 @@ function getDbId(id: number | string){
 
 const data1: number[] = [1, 2, 3]
 const data2: string[] = ["1", "2", "3"]
-const data3: (number | string | boolean)[] = [1, "2", true]
+const data3: (number | string | boolean)[] = [1, "2", true, 3]
